@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstToDoApp</string>
+    <string name="btnSave">SaveTask</string>
+    <string name="taskhint">Please Enter Task</string>
+    <string name="tvEdit">Please Edit the Task</string>
+    <string name="btEditString">Save Task</string>
+</resources>
