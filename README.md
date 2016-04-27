@@ -29,8 +29,8 @@ GIF created with RecordIt
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-- I had challenges in emulator starting up. I had chosen android NExus 5 phone with 6.0 and API 23. I then used the NExus 4 with android 16 and Android4.1. My system had very less memory that was the reason for this. I also conected my nexus 5 directly and tested the app there. Only issue was live debug was not possible .
+Challenges encountered while building the app.
+- I had challenges in emulator starting up. I had chosen android NExus 5 phone with 6.0 and API 23. I then used the Nexus 4 with android 16 and Android4.1. My system had very less memory that was the reason for this. I also conected my Nexus 5 directly and tested the app there. Only issue was live debug was not possible .
 - I had toruble in the call back methods when switching to the new acttivity and coming back to the Main activity. I had not used the REQUEST_CODE poeroperly  while starting the Edit activity.
 
 
